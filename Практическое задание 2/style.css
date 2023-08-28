@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 2.5em;
+}
+p {
+    font-size: 1.5em;
+}
+img {
+    max-width: 40%;
+}
+div {
+    border-bottom: 2px gray dashed;
+}
+div:last-child {
+    border-bottom: none;
+}
